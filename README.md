@@ -1,6 +1,6 @@
 # Case-Study-UCI-Bank-Marketing-Dataset
 
-So this is a case study using the UCI Bank Marketing Dataset. This case study will consist of several parts.
+So this is a case based on a UCI Bank Marketing Dataset. This case study will consist of several parts.
 
 The following information is drawn for the most part from the UCI Machine Learning Repository: [https://archive.ics.uci.edu/ml/datasets/bank+marketing](https://archive.ics.uci.edu/ml/datasets/bank+marketing)
 
